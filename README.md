@@ -62,8 +62,8 @@
 ## 📊 GitHub Stats & Badges
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dendup67&show_icons=true&theme=radical" alt="Dendup67's GitHub stats" width="48%"/>
-  <br>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Dendup67&show_icons=true&theme=radical" alt="Dendup67's GitHub stats" width="48%"/>
+  <br> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dendup67&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Dendup67&label=Profile+Views&color=blue" alt="Profile Views"/>
