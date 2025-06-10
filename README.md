@@ -51,11 +51,12 @@
 
 ---
 ## 📫 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://github.com/dendup67) 
-- [![Gmail](https://img.shields.io/badge/-Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](#)
-- [![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](#)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/dendup-chophel) 
+- [![Gmail](https://img.shields.io/badge/-Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](dendup1998@gmail.com)
+- [![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dendup67)
 
 ---
+
 
 ## 📊 GitHub Stats & Badges
 
