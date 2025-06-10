@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tech Stack that I have worked with
+## 🛠️ Technologies & Tools I've Worked With
 ![Frappe](https://img.shields.io/badge/-Frappe-%23000000?style=flat-square&logo=frappe&logoColor=ffffff)
 ![ERPNext](https://img.shields.io/badge/-ERPNext-%230089FF?style=flat-square&logo=erpnext&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -43,7 +43,7 @@
 ![Vim](https://img.shields.io/badge/-Vim-%23019733?style=flat-square&logo=vim&logoColor=ffffff)
 ![Nano](https://img.shields.io/badge/-Nano-%234A90E2?style=flat-square&logo=nano&logoColor=ffffff)
 
-## 🛠️ Tech Stack that I am currently exploring
+## 🛠️ My Ongoing Tech Exploration
 ![Azure](https://img.shields.io/badge/-Azure-%230078D4?style=flat-square&logo=microsoftazure&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazonaws&logoColor=ffffff)
 ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-%231BA0D7?style=flat-square&logo=cisco&logoColor=ffffff)
